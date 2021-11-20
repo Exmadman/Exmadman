@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Exmadman (Tom).
 - 👀 I’m interested in Java, Python, Linux...
-- 🌱 I’m currently learning Java first.
-- 💞️ I’m looking to collaborate on Google.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on Google &...
 - 📫 How to reach me? Please send a mail to 
      district12darkberries@gmail.com
 
